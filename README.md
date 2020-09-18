@@ -1,2 +1,2 @@
 # passgen
-A simple password generator, written in python.
+A simple random password generator, written in python.
